@@ -3,7 +3,7 @@
 Benvenuti nella pagina GitHub di DeveloperWay! Qui troverete tutte le risorse utili che vi aiuteranno nella ricerca del lavoro durante il percorso DeveloperWay.
 Questo template è una di quelle risorse: Copiatela o prendetene ispirazione e rendete più professionale ed efficace il vostro GitHub.
 
-[![Linkedin: Gianluca Spadazzi](https://img.shields.io/badge/-DeveloperWay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-spadazzi)](www.linkedin.com/in/gianluca-spadazzi)
+[![Static Badge](https://img.shields.io/badge/Gianluca%20Spadazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fgianluca-spadazzi%2F)](www.linkedin.com/in/gianluca-spadazzi/)
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/DeveloperWayIT?label=follow&style=social)](https://github.com/DeveloperWayIT)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DeveloperWayIT&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)

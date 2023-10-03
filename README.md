@@ -75,14 +75,14 @@ If I'm not sitting at a desk coding away, you'll find me reading new IT stuff or
 
 Qui potrete elencare i vostri progetti passati e in corso, dando visibilità e facile accesso al vostro codice.
 
-### 🌎 Project  [💻Live Version](<!-- Inserisci qui il link alla versione deployata-->) <!-- [📄 Repo](<!-- Inserisci qui il link alla repository-->) -->
-<!-- 
+### 🌎 Project  
 Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business.
 
 - FE Website & mobile app: Esempi di tech stack
 - BE : Esempi di tech stack
 - APIs : Esempi di tech stack
 -->
+
 <!--
 **Giaspa/giaspa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

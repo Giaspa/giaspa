@@ -1,18 +1,16 @@
 ## Hello there
-
 I'm Gianluca Spadazzi, officially a Fullstack developer but really in love with Frontend and Javascript. 
 
 I enjoy building software that I actually use in my life. 
 
 If I'm not sitting at a desk coding away, you'll find me reading new IT stuff or mumbling about new project's idea.
 
-[![Static Badge](https://img.shields.io/badge/Gianluca%20Spadazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-spadazzi)](https://www.linkedin.com/in/gianluca-spadazzi/)
-[![GitHub followers](https://img.shields.io/github/followers/giaspa?label=Giaspa&logo=Github)]()
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Giaspa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Social Media
+[![Static Badge](https://img.shields.io/badge/Gianluca%20Spadazzi%20-%20gray?logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/gianluca-spadazzi&color=gray)](https://www.linkedin.com/in/gianluca-spadazzi/)
+[![Static Badge](https://img.shields.io/badge/My%20portfolio%20-%20gray?logo=html5&logoColor=white&labelColor=orange&color=gray&link=https%3A%2F%2Fgiaspa.github.io%2F)](https://giaspa.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/giaspa?logo=Github&label=follow&style=social)]()
 
 ## Languages & Tools
-
 <table width="100" align='center' >
   <tr>
       <td align='center' width="190">
@@ -69,6 +67,10 @@ If I'm not sitting at a desk coding away, you'll find me reading new IT stuff or
       </td>
   </tr>
 </table>
+
+## Activity graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Giaspa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 ## Projects

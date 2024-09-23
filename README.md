@@ -19,37 +19,42 @@ If I'm not sitting at a desk coding away, you'll find me reading new IT stuff or
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="64" title="React"/>
       </td>
+          <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" title="Flutter"/>
+      </td>
       <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" title="Javascript"/>
       </td>
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="64" title="Typescript"/>
       </td>
-      <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="64" title="HTML"/>
-      </td>
   </tr>
     
   <tr>
       <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="Node.js"/>
+      </td>
+      <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="64" title="HTML"/>
+      </td>
+      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="64" title="Sass"/>
       </td>
+      <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS"/>
+      </td>
+      <td align='center'  width="190">
+        <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" width="64" title="Bootstrap"/>
+      </td>    
+  </tr>
+  
+  <tr>
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDB"/>
       </td>
       <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="Node.js"/>
-      </td>
-      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" title="Firebase"/>
       </td>
-      <td align='center'  width="190">
-        <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" width="64" title="Bootstrap"/>
-      </td>
-      
-  </tr>
-  
-  <tr>
       <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java"/>
       </td>
@@ -59,11 +64,22 @@ If I'm not sitting at a desk coding away, you'll find me reading new IT stuff or
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="64" title="Docker"/>
       </td>
+  </tr>
+
+  <tr>
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" title="Slack"/>
       </td>
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" title="Vite"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title="Jira"/>
+      </td>
+      <td align='center' width="190">
       </td>
   </tr>
 </table>
